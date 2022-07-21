@@ -11,22 +11,8 @@
     "mocha": "mocha test/",
     "test": "npm run lint && npm run mocha"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NielsLeenheer/EscPosEncoder.git"
-  },
-  "keywords": [
-    "pos",
-    "escpos",
-    "receipt",
-    "printer"
-  ],
-  "author": "Niels Leenheer",
+  "author": "Vikram",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/NielsLeenheer/EscPosEncoder/issues"
-  },
-  "homepage": "https://github.com/NielsLeenheer/EscPosEncoder#readme",
   "devDependencies": {
     "browserify": "^17.0.0",
     "buffer-to-uint8array": "^1.1.0",
